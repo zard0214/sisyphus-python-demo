@@ -6,3 +6,9 @@ print(s)
 b = s.encode('utf-8')
 print(b)
 print(b.decode('utf-8'))
+
+s[0]
+s[-1]
+
+s = 'supercalifragilisticexpialidocious'
+len(s)
